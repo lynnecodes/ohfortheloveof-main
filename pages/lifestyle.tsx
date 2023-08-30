@@ -14,9 +14,9 @@ export default function Lifestyle() {
             <div className="pb-20">
                 {/* August Blog */}
                 <BlogBlock
-                    link="/blog/230831-nice-to-see-you-again"
+                    link="/blog/230831-its-me-hi"
                     image="blog/5E70BCEA-C7FF-43AA-B441-8CEF74743972_1_102_o_lqqtqj.jpg"
-                    title="Nice to See You Again"
+                    title="It's Me, Hi."
                     date="August 31, 2023"
                     description="It is with great excitement that we announce our return! We are thrilled to be back and ready to share a little bit of us with you again."
                 />

@@ -5,7 +5,7 @@ export default function Welcome() {
         <>
             {/* title and image */}
             <BlogPost
-                title="Nice to See You Again"
+                title="It's Me, Hi."
                 title1=""
                 title2=""
                 title3=""
