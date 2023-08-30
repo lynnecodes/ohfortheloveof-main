@@ -48,7 +48,7 @@ export default function Welcome() {
                     <h3 className="text-3xl py-5 font-bold">Mr & Mrs</h3>
 
                     {/* content */}
-                    <p className="pb-3">We sold our first home which was a very stressful and emotional process, but it is also very exciting to be starting a new chapter. Years ago we talked how our sacrifices, time studying, and distress will eventually lead us to bigger things. And now we can look back and say we’re glad we did what we did to get where we’re at. We’re having so much fun making this a dream childhood home for our girls and a good place for them to enjoy for a big chunk of their lives. We definitely have big plans for this home and we’re working our butts off to make it darn near perfect. </p>
+                    <p className="pb-3">We sold our first home which was a very stressful and emotional process, but it is also very exciting to be starting a new chapter. Years ago we talked how our sacrifices, time studying, and distress will eventually lead us to bigger things. And now we can look back and say we’re glad we did what we did to get where we’re at. In May, we purchased a new build and we’re having so much fun making this a dream home for our family and a good place for us to enjoy together. We definitely have big plans for this home and we’re working our butts off to make it darn near perfect. </p>
                     <p className="pb-3">We’re very blessed that our family supported and helped us along the way and continue to provide us with shelter and help with the girls while we go though this process. We love you with all our hearts and appreciate all that you’re doing for our family. </p>
 
                     {/* heading */}

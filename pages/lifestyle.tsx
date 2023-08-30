@@ -12,7 +12,7 @@ export default function Lifestyle() {
                 <h2 className="text-5xl text-center p-10">Read into Our Lives</h2>
             </div>
             <div className="pb-20">
-
+                {/* August Blog */}
                 <BlogBlock
                     link="/blog/230831-nice-to-see-you-again"
                     image="blog/5E70BCEA-C7FF-43AA-B441-8CEF74743972_1_102_o_lqqtqj.jpg"
