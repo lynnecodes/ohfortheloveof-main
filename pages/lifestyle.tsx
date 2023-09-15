@@ -57,9 +57,9 @@ export function BlogBlock({
     return (
         < div className="flex justify-center content-center p-5 text-gray-600" >
             <a href={link}>
-                <div className="max-w-5xl bg-purple-50 rounded-xl overflow-hidden flex flex-col md:flex-row hover:shadow-lg shadow-puple-100 duration-300">
+                <div className="max-w-5xl bg-stone-200 rounded-xl overflow-hidden flex flex-col md:flex-row hover:shadow-lg shadow-puple-100 duration-300">
                     <div className="flex md:max-w-xs max-h- md:max-h-auto">
-                        <div className="rounded-t-xl md:rounded-t-none md:rounded-l-xl flex overflow-hidden justify-center content-center drop-shadow-xl shadow-purple-900">
+                        <div className="rounded-t-xl md:rounded-t-none md:rounded-l-xl flex overflow-hidden justify-center content-center drop-shadow-xl shadow-stone-900">
                             <Image
                                 src={`${image}`}
                                 alt={title}
@@ -75,7 +75,7 @@ export function BlogBlock({
                             <p>{date}</p>
                         </div>
                         <p>{description}</p>
-                        <p className="underline text-purple-400 pt-5">Read More</p>
+                        <p className="underline text-rose-900 pt-5">Read More</p>
                     </div>
                 </div>
             </a >
