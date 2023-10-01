@@ -12,6 +12,15 @@ export default function Lifestyle() {
                 <h2 className="text-5xl text-center p-10">Read into Our Lives</h2>
             </div>
             <div className="pb-20">
+                {/* September Blog */}
+                <BlogBlock
+                    link="/blog/230930-september"
+                    image="blog/disneyland_tmxbks"
+                    title="September is for Selena"
+                    date="September 30, 2023"
+                    description="As September ends, we can officially say goodbye summer and hello fall!  Besides Selena‘s birthday, September has been pretty chill."
+                />
+
                 {/* August Blog */}
                 <BlogBlock
                     link="/blog/230831-its-me-hi"
