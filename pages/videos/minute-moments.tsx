@@ -14,6 +14,13 @@ export default function () {
 
                         {/* 2023 */}
                         <VideoTemplate
+                            title="Summerlin Library's Fall Festival"
+                            date="2023 October 7"
+                            link="https://youtu.be/DDNvj-ccqMk"
+                            description=""
+                            color="gray" />
+
+                        <VideoTemplate
                             title="Selena's First Birthday"
                             date="2023 September 9"
                             link="https://youtu.be/7EA8-Ml8TTY"
