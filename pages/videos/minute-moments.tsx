@@ -14,6 +14,13 @@ export default function () {
 
                         {/* 2023 */}
                         <VideoTemplate
+                            title="Haunted Harvest at Springs Preserve"
+                            date="2023 October 21"
+                            link="https://youtu.be/I3h77qT2hlA"
+                            description=""
+                            color="gray" />
+
+                        <VideoTemplate
                             title="Summerlin Library's Fall Festival"
                             date="2023 October 7"
                             link="https://youtu.be/DDNvj-ccqMk"
