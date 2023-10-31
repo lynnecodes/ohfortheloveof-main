@@ -14,6 +14,27 @@ export default function () {
 
                         {/* 2023 */}
                         <VideoTemplate
+                            title="HallOVeen at Opportunity Village"
+                            date="2023 October 29"
+                            link="https://youtu.be/YO4HL-DIAgk"
+                            description=""
+                            color="gray" />
+
+                        <VideoTemplate
+                            title="Seasonal Adventures at Centennial"
+                            date="2023 October 28"
+                            link="https://youtu.be/JbHKfswaWFU"
+                            description=""
+                            color="gray" />
+
+                        <VideoTemplate
+                            title="Move in the Park at Tivoli Village"
+                            date="2023 October 27"
+                            link="https://youtu.be/rPHMF4OwXbM"
+                            description=""
+                            color="gray" />
+
+                        <VideoTemplate
                             title="Haunted Harvest at Springs Preserve"
                             date="2023 October 21"
                             link="https://youtu.be/I3h77qT2hlA"
