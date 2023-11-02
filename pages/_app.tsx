@@ -21,7 +21,7 @@ export default function App({ Component, pageProps }) {
         }
       </Script>
 
-      <div className="relative font-rajdhani overflow-hidden text-gray-700 bg-slate-50">
+      <div className="relative font-roboto overflow-hidden text-gray-700 bg-slate-50">
         <Head>
           <title>Love Life</title>
           <link rel="icon" href="/favicon.ico" />
@@ -31,6 +31,7 @@ export default function App({ Component, pageProps }) {
             @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
             @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
           </style>
 
         </Head>
@@ -38,7 +39,7 @@ export default function App({ Component, pageProps }) {
         </div>
         <Component {...pageProps} />
       </div>
-      <footer className="bg-gray-100 p-10 m-0 font-rajdhani text-center text-gray-700 flex justify-center">
+      <footer className="bg-gray-100 p-10 m-0 font-roboto text-center text-gray-700 flex justify-center">
         <div className="grid grid-cols-1 md:grid-cols-2 place-items-stretch">
           <div className='col-span-1 md:col-span-1'>
             The Buencamino Family <span className='hidden md:inline-flex ml-3'>|</span>

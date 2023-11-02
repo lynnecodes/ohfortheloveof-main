@@ -20,7 +20,8 @@ module.exports = {
         'vidaloka': ["Vidaloka, serif"],
         'rajdhani': ["Rajdhani"],
         'notosans': ["Noto Sans"],
-        'parisienne': ["Parisienne, cursive"]
+        'parisienne': ["Parisienne, cursive"],
+        'roboto': ['Roboto Condensed, sans-serif']
       },
     },
   },

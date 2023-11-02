@@ -12,6 +12,15 @@ export default function Lifestyle() {
                 <h2 className="text-5xl text-center p-10">Read into Our Lives</h2>
             </div>
             <div className="pb-20">
+                {/* October Blog */}
+                <BlogBlock
+                    link="/blog/231031-less-than-spooky"
+                    image="blog/IMG_0748_bazhar.jpg"
+                    title="Less Than Spooky Season"
+                    date="October 31, 2023"
+                    description="Fall is such a magical season! The cold air and plenty of fun festivities to enjoy, it’s really a fun season. Our calendars were packed with loads of things for the girls to enjoy."
+                />
+
                 {/* September Blog */}
                 <BlogBlock
                     link="/blog/230930-september"
