@@ -36,21 +36,21 @@ export default function Welcome() {
 
                     {/* content */}
                     <p className="pb-3">Sofia did her first tournament this month! Well, actually it was by accident, but nevertheless, she participated and received two medals--one for nunchucks and one for board breaking. She was very nervous, but ended up doing really well. We are so proud of her and how far she’s going with her karate classes. She did mention she wants to start back at gymnastics. So we’ll look into that in the coming months. </p>
-                    <p className="pb-3">SWe played our first board game with Sofia, Candyland. We noticed that she’s very competitive and being that she was the only little one for a while, she is not used to not getting her way. So we’re working on taking turns and how to deal with our feelings by losing and winning gracefully. She’s learning and doing very good. Just wait until she gets to Monopoly. haha. </p>
+                    <p className="pb-3">We played our first board game, Candyland, with Sofia. We noticed that she’s very competitive and being that she was the only little one for a while, she is not used to NOT getting her way. So we’re working on taking turns and how to deal with our feelings by losing and winning gracefully. She’s learning and doing very good. Just wait until she gets to Monopoly. haha. </p>
 
                     {/* heading */}
                     <h3 className="text-3xl py-5 font-bold">Selena</h3>
 
                     {/* content */}
-                    <p className="pb-3">If you don’t know already, Selena is glued to mommy’s hip. So this was an exciting month for her. She had playdates with friends and is slowly getting comfortable exploring on her own. Her personality really shows as an observer and cautious being. But once she gets used to her environment, she’s off to figuring things out by herself. She loves books and very smart. She’s figured out how to tell us she needs a diaper change, by bringing us her own diaper, especially right before bedtime along with a book to read. She tells us what time it is when she knows the change routine. </p>
+                    <p className="pb-3">If you don’t know already, Selena is glued to mommy’s hip. So this was an exciting month for her. She had playdates with friends and is slowly getting comfortable exploring on her own. Her personality really shows as an observer and cautious being. But once she gets used to her environment, she’s off to figuring things out by herself. She loves books and very smart. She’s figured out how to tell us she needs a diaper change, by bringing us her own diaper, especially right before bedtime along with a book to read. She tells us what time it is when she starts to initiate her own bedtime routine. </p>
                     <p className="pb-3">Selena’s was only 1 month old during her first Halloween, so she really got to experience what it’s all about this time around. She saw other kids dressed up, got to feel pumpkins, and watch some Halloween (family-friendly) classics like Nightmare Before Christmas and Hocus Pocus. We can only hope these kids love the holidays as much as we do.</p>
 
                     {/* heading */}
                     <h3 className="text-3xl py-5 font-bold">Mr & Mrs </h3>
 
                     {/* content */}
-                    <p className="pb-3">As of October, our house has been drywalled and the exterior has been painted! It’s so cool to watch it coming all together. We did a site visit one day and walked in. It was so quiet! With the walls up we can really imagine sitting in our dining room and enjoying a movie from where the couch would be.!</p>
-                    <p className="pb-3">Mikki celebrated his 34th birthday this year and we had a nice dinner at Steak by Gordon Ramsey. We have a slight obsession with cooking competitions and it all started with Mr. Ramsey himself. So we’re making our way through the culinary world, one Wellington at a time. </p>
+                    <p className="pb-3">As of October, our house has been drywalled and the exterior has been painted! It’s so cool to watch it coming all together. We walked in during a site visit one day and walls make such a huge difference. It was so quiet! With the walls up we can really imagine sitting in our dining room and enjoying a movie from where the couch would be!</p>
+                    <p className="pb-3">Mikki celebrated his 34th birthday this year and we had a nice dinner at Steak by Gordon Ramsay. We have a slight obsession with cooking competitions and it all started with Mr. Ramsay himself. So we’re making our way through the culinary world, one Wellington at a time. </p>
 
                     {/* heading */}
                     <h3 className="text-3xl py-5 font-bold">What's Next</h3>
