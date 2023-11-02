@@ -16,7 +16,7 @@ export default function Lifestyle() {
                 <BlogBlock
                     link="/blog/231031-less-than-spooky"
                     image="blog/IMG_0748_bazhar.jpg"
-                    title="Less Than Spooky Season"
+                    title="Not So Spooky Season"
                     date="October 31, 2023"
                     description="Fall is such a magical season! The cold air and plenty of fun festivities to enjoy, it’s really a fun season. Our calendars were packed with loads of things for the girls to enjoy."
                 />

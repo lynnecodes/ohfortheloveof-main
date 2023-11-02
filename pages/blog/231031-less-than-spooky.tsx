@@ -17,11 +17,6 @@ export default function Welcome() {
             <div className="flex flex-col justify-center items-center">
                 <div className="p-5 md:max-w-7xl">
                     {/* heading */}
-                    <h3 className="text-3xl py-5 font-bold">Goodbye Summer</h3>
-                    {/* content */}
-                    <p className="pb-3">As September ends, we can officially say goodbye summer and hello fall!  Besides Selena‘s birthday, September has been pretty chill. </p>
-
-                    {/* heading */}
                     <h3 className="text-3xl py-5 font-bold">Fall Season
                     </h3>
 
