@@ -12,6 +12,15 @@ export default function Lifestyle() {
                 <h2 className="text-5xl text-center p-10">Read into Our Lives</h2>
             </div>
             <div className="pb-20">
+                {/* November Blog */}
+                <BlogBlock
+                    link="/blog/231130-chill-november"
+                    image="/blog/IMG_1958_rynsvd.heic"
+                    title="Chill November"
+                    date="November 30, 2023"
+                    description="We had a very chill November. Our weekends were not as hectic as we thought it would be. It was lots of pizza and movie nights with the girls. Since the weather was getting nicer, we were able to take the girls to parks and stroll outdoors. "
+                />
+
                 {/* October Blog */}
                 <BlogBlock
                     link="/blog/231031-less-than-spooky"
