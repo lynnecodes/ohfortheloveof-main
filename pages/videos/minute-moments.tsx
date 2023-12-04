@@ -14,6 +14,13 @@ export default function () {
 
                         {/* 2023 */}
                         <VideoTemplate
+                            title="Enchant at Las Vegas Ballpark"
+                            date="2023 December 02"
+                            link="https://youtu.be/qDtDAUhptCI"
+                            description=""
+                            color="gray" />
+
+                        <VideoTemplate
                             title="HallOVeen at Opportunity Village"
                             date="2023 October 29"
                             link="https://youtu.be/YO4HL-DIAgk"
@@ -28,7 +35,7 @@ export default function () {
                             color="gray" />
 
                         <VideoTemplate
-                            title="Move in the Park at Tivoli Village"
+                            title="Movie in the Park at Tivoli Village"
                             date="2023 October 27"
                             link="https://youtu.be/rPHMF4OwXbM"
                             description=""
