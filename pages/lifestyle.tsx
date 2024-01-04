@@ -12,6 +12,15 @@ export default function Lifestyle() {
                 <h2 className="text-5xl text-center p-10">Read into Our Lives</h2>
             </div>
             <div className="pb-20">
+                {/* December Blog */}
+                <BlogBlock
+                    link="/blog/231231-family-love-reflection"
+                    image="/blog/Screen_Shot_2024-01-04_at_11.42.29_AM_scmupx.png"
+                    title="Family, Love, & Reflection"
+                    date="December 31, 2023"
+                    description="The month of December has always been a heart-warming time for us because it’s the month of family, love, and reflection. 
+"
+                />
                 {/* November Blog */}
                 <BlogBlock
                     link="/blog/231130-chill-november"
