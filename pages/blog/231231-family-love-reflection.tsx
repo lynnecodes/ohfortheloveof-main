@@ -30,7 +30,7 @@ export default function Welcome() {
                     <p className="pb-3">Oh how much we love our family! Our little family, our extended family, and our friends that have become part of our family. We just love to be surrounded by people who love us unconditionally.</p>
                     <p className="pb-3">Mikki used to tell me about Christmases with his family in the Philippines. The Santa visits and performances  his brothers and cousins put on for presents . . . It was a tradition Mikki’s mom wanted to continue for her grandchildren and we’re grateful to be a part of that and keep the Christmas magic alive for the girls.</p>
                     <p className="pb-3">As for the Mendoza's, everyone knows my mom’s love language--it’s cooking with such love that once it hits your mouth, it immediately warms your heart. It's the early mornings, the smell that fills the kitchen, family in every corner of the house. That’s Christmas to me. I had the opportunity to learn my kitchen skills from my mom, who learned from her dad and now Sofia is starting to learn from the best mama chef out there. Sofia is a great helper and said that one day she wants to be a doctor chef.</p>
-                    <p className="pb-3">If you can’t tell, we love our parents and being around them. We have so much fun with them and love the love the give. Each year we take a family trip to Enchant to see the lights and take in the Christmas air. Selena has become such a great walker, that she definitely enjoyed running around with her sister this time around. Memories like these are just so fun to make and are so precious to us because we can’t rewind time.</p>
+                    <p className="pb-3">If you can’t tell, we love our parents and being around them. We have so much fun with them and love the love they give. Each year we take a family trip to Enchant to see the lights and take in the Christmas air. Selena has become such a great walker, that she definitely enjoyed running around with her sister this time around. Memories like these are just so fun to make and are so precious to us because we can’t rewind time.</p>
 
 
                     {/* heading */}
@@ -46,7 +46,7 @@ export default function Welcome() {
 
                     {/* content */}
                     <p className="pb-3">We started taking the girls to parks to play and release their energy. They just have so much of it! Selena is starting to love to run and jump (without her feet leaving the floor, so they're more like squats) and she’s babbling so much. We were joking around wondering how is that all our kids want to keep on moving. All three of them! Embee, Sofia, and now Selena.</p>
-                    <p className="pb-3">We love it all though. Selena is such a goofball. She’s shy, but loves to run up to people and run away when they say hi to her. She’s sweet and oftentimes will be the one comforting Sofia when she’s down or hurt. Selena absolutely hates things in her hair. So if you’re wondering why her hair is always in her eyes, that’s because she pulls out anything we put on her head. She likes it thaat way, so it is what it is.</p>
+                    <p className="pb-3">We love it all though. Selena is such a goofball. She’s shy, but loves to run up to people and run away when they say hi to her. She’s sweet and oftentimes will be the one comforting Sofia when she’s down or hurt. Selena absolutely hates things in her hair. So if you’re wondering why her hair is always in her eyes, that’s because she pulls out anything we put on her head. She likes it that way, so it is what it is.</p>
 
                     {/* heading */}
                     <h3 className="text-3xl py-5 font-bold">Mr & Mrs </h3>
@@ -70,7 +70,7 @@ export default function Welcome() {
                     <h3 className="text-3xl py-5 font-bold">What's Next</h3>
 
                     {/* content */}
-                    <p className="pb-3">The start of the year is going to be rough with a part of our family in doggy heaven, but it's easier knowing that we had only good memories with him alongside with everyone who loved Embee just as much.  </p>
+                    <p className="pb-3">The start of the year is going to be rough with a part of our family in doggy heaven, but it's easier knowing that we had so many good memories with him alongside with everyone who loved Embee just as much.  </p>
                     <p className="pb-3">To get our spirits up, we do have things to look forward to in 2024. Our house will be completed soon, we have travel plans ready, and lots of gatherings in the works to fill our new home with love, laughter, and memories.</p>
                     <p className="pb-3">We’ll see you in 2024!</p>
                     {/* signature */}

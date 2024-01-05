@@ -25,7 +25,7 @@ export default function () {
                             selena
                         </div>
                         <div className="m-5 text-sm h-16 w-16 bg-stone-700 rounded-full flex justify-center items-center text-stone-100">
-                            embee
+                            embee <span className="pl-1 text-stone-400">✝︎</span>
                         </div>
                     </div>
                 </div>
